@@ -1,0 +1,27 @@
+{
+  "name": "mafia-js",
+  "description": "Components used in Web Implements Hero Components Interface",
+  "main": "hero.js",
+  "authors": [
+    "刘国平 <guoping.liu@dianrong.com>"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/hero-mobile/mafia-js",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0c97c2b6b3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "native",
+    "commit": "0c97c2b6b3a81dab87f6824eba7dc2178815f34c"
+  },
+  "_source": "git://github.com/hero-mobile/mafia-js.git",
+  "_target": "native",
+  "_originalSource": "hero-mobile/mafia-js"
+}

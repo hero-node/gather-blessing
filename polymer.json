@@ -1,0 +1,6 @@
+{
+  "entrypoint": "src/index.html",
+  "shell": "bower_components/hero-js/src/hero-app.html",
+  "fragments": [
+  ]
+}

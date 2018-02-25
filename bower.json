@@ -1,0 +1,22 @@
+{
+  "name": "hero-sample",
+  "description": "hero sample",
+  "main": "index.js",
+  "authors": [
+    "刘国平 <guoping.liu@dianrong.com>"
+  ],
+  "license": "GPL-3.0",
+  "moduleType": [],
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "hero-js":  "hero-mobile/hero-js#native",
+    "mafia-js": "hero-mobile/mafia-js#native"
+  }
+}

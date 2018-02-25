@@ -1,0 +1,18 @@
+{
+  "name": "mafia-js",
+  "description": "Components used in Web Implements Hero Components Interface",
+  "main": "hero.js",
+  "authors": [
+    "刘国平 <guoping.liu@dianrong.com>"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/hero-mobile/mafia-js",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
